@@ -2,7 +2,7 @@
 This is part of the Front-end Web Developer nanodegree from udacity. The project utilizes <a href="https://www.udacity.com/courses/ud884">Website Performance optimization</a> and <a href="https://www.udacity.com/courses/ud860">Browser Rendering Optimization</a>
 
 ##Usage
-Access index.html file
+Access [index.html file](https://cdn.rawgit.com/Durian1-Monkey/frontend-nanodegree-mobile-portfolio/master/dist/index.html)
 
 ##Purpose
 Optimize a provided website with a number of optimizaation- and performance- related issues so that it achieves a target PageSpeed score and runs at 60 frames per seconsd.
