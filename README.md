@@ -1,4 +1,4 @@
-#Udacity Project4: Website Optimization
+#Udacity Project4: Frontend Nanodegree Mobile Portfolio
 This is part of the Front-end Web Developer nanodegree from udacity. The project utilizes <a href="https://www.udacity.com/courses/ud884">Website Performance optimization</a> and <a href="https://www.udacity.com/courses/ud860">Browser Rendering Optimization</a>
 
 ##Usage
