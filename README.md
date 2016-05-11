@@ -8,12 +8,12 @@ Access [index.html file](https://cdn.rawgit.com/Durian1-Monkey/frontend-nanodegr
 Optimize a provided website with a number of optimizaation- and performance- related issues so that it achieves a target PageSpeed score and runs at 60 frames per seconsd.
 
 ## optimizations
-Before optimizing the performance, the score of pagespeed Insight is below.
-![mobile]('src/img/first1.PNG')
-!['src/img/first2.PNG']('src/img/first2.PNG')
-After optimiznig, the scores are 90+ at pagespeed Insight is below.
-!['src/img/second1.PNG']('src/img/second1.PNG')
-!['src/img/second2.PNG']('src/img/second2.PNG')
+Before optimizing the performance, the score of pagespeed Insight is below.  
+![mobile](src/img/first1.PNG)  
+![notebook](src/img/first2.PNG)  
+After optimiznig, the scores are 90+ at pagespeed Insight is below.  
+![mobile](src/img/second1.PNG)  
+![notebook](src/img/second2.PNG)  
 
 ### Portfolio page
 
