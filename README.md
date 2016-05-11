@@ -15,7 +15,7 @@ After optimiznig, the scores are 90+ at pagespeed Insight is below.
 ![mobile](src/img/second1.PNG)  
 ![notebook](src/img/second2.PNG)  
 
-### Portfolio page
+## Portfolio page
 
 1. Minify images both JPEG and PNG using 
 
@@ -25,7 +25,7 @@ After optimiznig, the scores are 90+ at pagespeed Insight is below.
 1. Remove scripts fomr CRP by inserting async inside.
 1. Inline CSS files into index.html using <a href="https://github.com/addyosmani/critical">critical</a>.
 
-### Pizzeria page
+## Pizzeria page
 1. Replace querySelectorAll into more specific selectors such as getElementById, getElementByClassName.
 1. Eliminate redundant action to change pizza size with slider.
 1. Improve scroll action speed in updatePositions function.
